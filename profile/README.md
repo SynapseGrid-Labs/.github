@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SynapseGrid-Labs/.github/main/profile/assets/synapsegrid-labs-readme-banner-wb.jpg" alt="SynapseGrid Labs" width="720">
+  <img src="https://raw.githubusercontent.com/SynapseGrid-Labs/.github/main/profile/assets/synapsegrid-labs-readme-banner-wb.jpg" alt="SynapseGrid Labs" width="846">
 </p>
 
 # SynapseGrid Labs
